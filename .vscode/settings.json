@@ -1,6 +1,15 @@
 {
     "files.associations": {
         "*.ejs": "html",
-        "string": "cpp"
+        "string": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "iostream": "cpp",
+        "01_Basic_Syntax.C": "cpp",
+        "1_variables.C": "cpp"
     }
 }
