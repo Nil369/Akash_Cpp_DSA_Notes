@@ -25,15 +25,8 @@ C++ is a powerful general-purpose programming language that is widely used for d
 9.  **File I/O**
 10. **Object-Oriented Programming (OOP)**
 11. **Templates & Standard Template Library (STL)**
-    - C++ Templates
-    - C++ Class Templates
-    - C++ Function Templates
-    - C++ STL
-    - C++ Containers
-    - C++ Vectors
-    - C++ Lists
-    - C++ Maps
 
+    
 ### Easy-to-Understand Code Examples
 
 Below are some basic examples to illustrate these concepts. For a more detailed explanation, please refer to the corresponding code files.
