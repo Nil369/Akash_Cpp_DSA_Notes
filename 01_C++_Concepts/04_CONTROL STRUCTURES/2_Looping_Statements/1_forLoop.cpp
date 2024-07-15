@@ -16,7 +16,7 @@ int main()
     //     loop body(C++ code);
     // }
 
-    for (int i = 1; i <= 40; i++)
+    for (int i = 1; i <= 6; i++)
     {
         
         cout<<i<<endl;
@@ -28,6 +28,17 @@ int main()
     //     /* code */
     //     cout<<i<<endl;
     // }
+
+    // Finding sum of n numbers inputed by user:
+
+    int n,sum = 0;
+    cout<<"Enter a number: ";
+    cin>>n;
+    for (int i = 1; i <= n; i++)
+    {
+       sum +=i;
+    }
+    cout<<"Sum = "<<sum;
 
     return 0;
 }

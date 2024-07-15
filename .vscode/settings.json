@@ -10,6 +10,7 @@
         "utility": "cpp",
         "iostream": "cpp",
         "01_Basic_Syntax.C": "cpp",
-        "1_variables.C": "cpp"
+        "1_variables.C": "cpp",
+        "rough.C": "cpp"
     }
 }
